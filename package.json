@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.118",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "node-hue-api": "^2.4.4"
   }
 }
